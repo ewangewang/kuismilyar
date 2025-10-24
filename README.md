@@ -1,4 +1,4 @@
-kucing
+skucing
 kucing
 kucing
 # https://tea.xyz/what-is-this-file
